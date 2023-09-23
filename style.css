@@ -1,0 +1,33 @@
+          a{
+            color: gray;
+            text-decoration: none;
+          }
+          h1{
+            font-size: 60px;
+            text-align: center;
+            border-bottom: 1px solid black;
+            padding: 100px;
+            margin: 0px;
+          }
+          #here{
+            color: black;
+          }
+          ol{
+            font-size: large;
+            border-right: 1px solid black;
+            width: 250px;
+            margin: 0px;
+            padding: 50px;
+          }
+          #article{
+            font-size: large;
+            margin: 0px;
+            padding: 50px;
+          }
+          #grid{
+            display: grid;
+            grid-template-columns: 350px 1fr;
+          }
+          h2{
+            margin: 0px;
+          }
